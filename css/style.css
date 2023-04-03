@@ -1,0 +1,22 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('../fonts/SourceCodePro-VariableFont_wght.ttf') format('truetype');
+  }
+
+body {
+    background-color: #f4f4f4;
+    color: #555;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 16px;
+    line-height: 1.6em;
+}
+
+#main-header {
+    background-color: coral;
+    color: #fff;
+}
